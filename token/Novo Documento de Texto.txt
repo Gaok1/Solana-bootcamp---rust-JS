@@ -1,0 +1,7 @@
+myPubKey: 8HhrkxezN9gXJnPDK1Pa7TtiXrbRyoZZmzthictxijqJ
+
+
+token owner pubkey : GL3kFuNDaGx98sWpEdFAfXKHPAj1kRbhpPNng5haJCtj
+
+min address: FPHyCoj6aQTWbYe7TwjbjGFcbWURSrhzSMpoSm2n8Ppj
+token-account: 5nkYL2rSbTig9jKTyWCCFS9agE5mZ9CtA7qmgDqAGkjk
